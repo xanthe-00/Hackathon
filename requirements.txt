@@ -5,3 +5,6 @@ plotly
 google-generativeai
 joblib
 scikit-learn
+os
+time
+httpx
